@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "candidateId": "A1234",
+        "name": "Nicole",
+        "votes": 0
+    },
+    {
+        "id": 2,
+        "candidateId": "A1235",
+        "name": "Alexander",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "candidateId": "A1236",
+        "name": "Michael",
+        "votes": 0
+    },
+    {
+        "id": 4,
+        "candidateId": "A1237",
+        "name": "Kristina",
+        "votes": 0
+    }
+]
