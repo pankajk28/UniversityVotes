@@ -71,7 +71,7 @@ class UserVoting extends Component{
           );
     }
 }
-
+/* will use it later.
 const Form = ({ voteState = [], formState }) => {
     return (
         <div className="table-responsive container text-left">
@@ -111,11 +111,11 @@ const Form = ({ voteState = [], formState }) => {
             </tbody>
             </table>
             <br/>
-            {/* <button type="submit" class="btn btn-primary" onClick={() => submitVote(users)}>Vote</button> */}
+            <button type="submit" class="btn btn-primary" onClick={() => submitVote(users)}>Vote</button>
             </form>
         </div>
       );
-};
+}; */
 
 
 export default UserVoting;
